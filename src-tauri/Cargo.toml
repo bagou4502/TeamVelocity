@@ -1,8 +1,8 @@
 [package]
-name = "teamvelocity2"
-version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "teamvelocity"
+version = "1.0.0"
+description = "Team Velocity"
+authors = ["Yotapaki"]
 license = ""
 repository = ""
 edition = "2021"
